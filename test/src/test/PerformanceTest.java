@@ -20,7 +20,7 @@ public class PerformanceTest {
 		
 		long DiffTime = EndTime - StartTime; // 실행 시간 계산
 		
-		System.out.println("실행 시간(ms): " + DiffTime);
+		System.out.println("실행 시간22(ms): " + DiffTime);
 	}
 
 }
